@@ -8,9 +8,9 @@ This project focuses on analyzing customer churn in a retail bank. Customer chur
 
 [Click here to View](https://app.powerbi.com/groups/me/reports/52d659b0-9b6e-4cab-bf69-2f5194e292a2/209f44ba25574ca437e6?experience=power-bi)
 
-##  Open Notebook in Google Colab:
+# Open Notebook in Google Colab :
 
-[Click here to Open](https://colab.research.google.com/github/rakshandaphatak/Bank-Customer-Churn-Analysis-Python-Power-BI/blob/main/Bank_customer_churn_.ipynb)
+[Click here to Open](https://colab.research.google.com/github/rakshandaphatak/Bank-Customer-Churn-Analysis-Python-Power-BI/blob/main/Bank_customer_churn_.ipynb#scrollTo=sIBOVftyD8Vf)
 
 
 # Table Of Contents 
