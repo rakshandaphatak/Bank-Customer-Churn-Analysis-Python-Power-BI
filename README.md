@@ -205,7 +205,7 @@ Bank-Customer-Churn-Analysis/
 
 # Author & Contact 
 
-👩‍💻 Author: Rita Nayak
+👩‍💻 Author: Rakshanda Phatak
 
 📧 Email: [rakshanda5193@gmail.com]
 
